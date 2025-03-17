@@ -1,0 +1,1 @@
+netsh wlan export profile name="Wi-Fi Name" folder=C:\WiFi
